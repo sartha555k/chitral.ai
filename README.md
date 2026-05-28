@@ -4,6 +4,8 @@ AI-powered web application that analyzes resumes and provides ATS-style feedback
 
 ---
 
+Live -> chitral-ai-frontend.vercel.app
+
 ## ✨ Features
 
 - Analyze resume (paste text or upload PDF)
